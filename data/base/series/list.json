@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Wednesday",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}ΥΠ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://tainio-mania.online/uploads/posts/2022-11/tt13443470.jpg",
+         "playerLabel": "Οδηγός Φόνων για Καλά Κορίτσια",
+         "action": "content:https://sastamaa.github.io/utainies/data/base/series/list/wednesday.json"
+      },
+      {
          "title": "Οδηγός Φόνων για Καλά Κορίτσια",
          "titleFooter": "2024",
          "badge": "{col:msx-white}ΥΠ.",
